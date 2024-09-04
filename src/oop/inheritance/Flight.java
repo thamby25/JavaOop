@@ -1,4 +1,4 @@
-package atm.example_abstract.inheritance;
+package oop.inheritance;
 
 public class Flight {
 //    public void ticketSelling(){

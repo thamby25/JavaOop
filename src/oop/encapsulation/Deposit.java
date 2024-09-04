@@ -1,4 +1,4 @@
-package atm;
+package oop.encapsulation;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class Deposit{
     System.out.println("enter amount to deposit");
     double deposit= scanner.nextDouble();
 
-    double dep_total= depMoney.balance+deposit;
+    double dep_total= depMoney.addMoney(deposit);
     System.out.println(dep_total);
     //new_balance=dep_total;
 

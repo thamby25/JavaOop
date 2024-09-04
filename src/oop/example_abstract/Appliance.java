@@ -1,4 +1,4 @@
-package atm.example_abstract;
+package oop.example_abstract;
 
 public abstract class Appliance {
     public abstract void start();

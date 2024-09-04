@@ -1,4 +1,4 @@
-package atm;
+package oop.encapsulation;
 
 public class AtmConsole {
     public static void main(String[] args) {
